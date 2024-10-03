@@ -13,3 +13,5 @@ export const useForms = () => {
 
 	return { register, handleSubmit, errors };
 };
+
+// useForms.tsx
